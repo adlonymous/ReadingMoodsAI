@@ -38,7 +38,7 @@ next-env.d.ts
 .env
 
 #more
-.yarn.lock
-.next.config.js
-.package.json
-.package-lock.json
+yarn.lock
+next.config.js
+package.json
+package-lock.json
